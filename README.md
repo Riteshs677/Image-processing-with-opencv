@@ -43,10 +43,8 @@ pip install opencv
 ## Results
 
 ### Original Image
-(https://github.com/Riteshs677/Imagr-processing-with-opencv/blob/main/Computer%20Vision/02.jpg)
+![Original Image](Image-processing-with-opencv/blob/main/ComputerVision/02.jpg)
 
-### Adaptive Thresholded Image
-![Adaptive Thresholded Image](Computer Vision/s1.png)
 
 ## Conclusion
 
