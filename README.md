@@ -43,13 +43,10 @@ pip install opencv
 ## Results
 
 ### Original Image
-![Original Image](path/to/original_image.jpg)
-
-### Binary Thresholded Image
-![Binary Thresholded Image](path/to/binary_thresholded_image.jpg)
+![Original Image](Computer Vision/02.jpg)
 
 ### Adaptive Thresholded Image
-![Adaptive Thresholded Image](path/to/adaptive_thresholded_image.jpg)
+![Adaptive Thresholded Image](Computer Vision/s1.png)
 
 ## Conclusion
 
