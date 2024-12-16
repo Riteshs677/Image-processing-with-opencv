@@ -43,7 +43,7 @@ pip install opencv
 ## Results
 
 ### Original Image
-![Original Image](Image-processing-with-opencv/blob/main/ComputerVision/02.jpg)
+![docs](https://github.com/Riteshs677/Image-processing-with-opencv/blob/main/ComputerVision/02.jpg)
 
 
 ## Conclusion
